@@ -2,9 +2,20 @@
 
 The *Open Security Tool & Research license* is a Open Source license, based directly on the [MIT License](http://opensource.org/licenses/MIT), with the addition of a disclaimer at the end. The goal of the disclaimer is to establish "dual use" status, and warn end users that use without authorization may be illegal.
 
-At this point, this license is a proposal to the community, to determine suitability, and usefulness. The goal is to define a standard, open, interoperable license that addresses the unique needs and concerns of the security community. 
+At this point, this license is a proposal to the community, to determine suitability, and usefulness. The goal is to define a standard, open, interoperable license that addresses the unique needs and concerns of the security community.
 
-###License Text
+###Added Text
+
+This text is added to the end of the standard MIT license:
+
+    THE AUTHORS OF THIS SOFTWARE ARE NOT RESPONSIBLE FOR ANY UNAUTHORIZED USE OR
+    USE THAT VIOLATES LOCAL LAWS. USE OF THIS SOFTWARE ON SYSTEM(S) WITHOUT
+    PROPER AUTHORIZATION MAY BE ILLEGAL. THE END USER ASSUMES ALL RESPONSIBILITY
+    FOR THE USE OF THIS SOFTWARE AND COMPLIANCE WITH APPLICABLE LAWS. THIS
+    SOFTWARE IS INTENDED FOR RESEARCH AND LEARNING PURPOSES; OTHER USES ARE AT
+    THE RESPONSIBILITY OF THE END USER.
+
+###Full License Text
 
     OSTR License (Open Security Tool & Research License)
 
