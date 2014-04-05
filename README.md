@@ -1,6 +1,8 @@
 ## Open Security Tool & Research License (OSTR License)
 
-The *Open Security Tool & Research license* is a Open Source license, based directly on the [MIT License](http://opensource.org/licenses/MIT), with the addition of a disclaimer at the end. The goal of the disclaimer is to establish "dual use" status, and warn end users that use without authorization may be illegal. 
+The *Open Security Tool & Research license* is a Open Source license, based directly on the [MIT License](http://opensource.org/licenses/MIT), with the addition of a disclaimer at the end. The goal of the disclaimer is to establish "dual use" status, and warn end users that use without authorization may be illegal.
+
+At this point, this license is a proposal to the community, to determine suitability, and usefulness. The goal is to define a standard, open, interoperable license that addresses the unique needs and concerns of the security community. 
 
 ###License Text
 
@@ -35,7 +37,7 @@ The *Open Security Tool & Research license* is a Open Source license, based dire
 
 ###FAQs
 
-**Will this keep me from violating the [Wassenaar Arrangement](https://en.wikipedia.org/wiki/Wassenaar_Arrangement), §202c StGB, etc.?**
+**Will this keep me from violating the [Wassenaar Arrangement](https://en.wikipedia.org/wiki/Wassenaar_Arrangement), §202c StGB, CFAA, etc.?**
 No. It's up to you to make sure that you don't violate export restrictions, or other laws. This license just adds a disclaimer to try to make sure that the end user understands that they are responsible for their actions, and to state intentions, to help establish dual use status.
 
 **Does this guarantee dual use status?**
