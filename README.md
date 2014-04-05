@@ -33,12 +33,27 @@ The *Open Security Tool & Research license* is a Open Source license, based dire
     SOFTWARE IS INTENDED FOR RESEARCH AND LEARNING PURPOSES; OTHER USES ARE AT
     THE RESPONSIBILITY OF THE END USER.
 
+###FAQs
+
+**Will this keep me from violating the [Wassenaar Arrangement](https://en.wikipedia.org/wiki/Wassenaar_Arrangement), §202c StGB, etc.?**
+No. It's up to you to make sure that you don't violate export restrictions, or other laws. This license just adds a disclaimer to try to make sure that the end user understands that they are responsible for their actions, and to state intentions, to help establish dual use status.
+
+**Does this guarantee dual use status?**
+No. Defining what is and isn't dual use depends on varying definitions and laws; this *might* help meet a specific definition, though it's up to courts to determine what is and isn't dual use on a case by case basis.
+
+**Why do this?**
+This was inspired by a number of conversations, but the most recent that prodded me to do it is [this conversation](http://seclists.org/fulldisclosure/2014/Apr/60) on the Full Disclosure mailing list.
+
+**What are you promising this will give me?**
+Nothing. If you want to know how exactly this will effect you, or if your project will be considered dual use, contact your attorney.
 
 ###Status
 
 OSI - The license is based directly on an OSI approved license, but has not yet been submitted to the OSI for review. It's believed that the additional disclaimer doesn't hinder the status of the license, and doesn't add any new complications.
 
-Legal - The license has not yet been reviewed by an attorney to validate that it will have desired effect.
+Legal - The license has not yet been reviewed by an attorney to validate that it will have desired effect
+
+Copyright - All copyrights to the additional text are disclaimed, and the work granted to the public domain.
 
 ###Version
 
